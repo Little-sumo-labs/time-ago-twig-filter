@@ -1,0 +1,10 @@
+# Env
+.idea/
+*.iml
+
+# Project specific
+# .gitignore
+/build/
+.php_cs.cache
+composer.lock
+/vendor/

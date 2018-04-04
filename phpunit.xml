@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<phpunit colors="true">
+    <testsuites>
+        <testsuite name="Tests pour l'extention Twig">
+            <directory>./tests</directory>
+        </testsuite>
+    </testsuites>
+
+    <filter>
+        <whitelist>
+            <directory>src/</directory>
+            <directory>tests/</directory>
+        </whitelist>
+    </filter>
+</phpunit>

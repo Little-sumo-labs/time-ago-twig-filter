@@ -52,7 +52,7 @@ class RelativeTimerFilterTest extends \PHPUnit\Framework\TestCase
         $tomorrow = date('d M Y', strtotime('+ 1 day', strtotime('now')));
         $test = $this->relativeTimer->getRelativeTime($tomorrow);
 
-        $this->assertRegExp('/[0-9]+ heures/i', $test);
+        $this->assertRegExp('/[0-9]+ heure/i', $test);
     }
 
     /**

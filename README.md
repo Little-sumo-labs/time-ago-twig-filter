@@ -1,8 +1,8 @@
 Get Relative Time in Twig
 =============
 
-[![Build Status](https://travis-ci.org/Little-sumo-labs/relativeTimerExtentionForTwig.svg?branch=master)](https://travis-ci.org/Little-sumo-labs/relativeTimerExtentionForTwig)
-[![Coverage Status](https://coveralls.io/repos/github/Little-sumo-labs/relativeTimerExtentionForTwig/badge.svg?branch=master)](https://coveralls.io/github/Little-sumo-labs/relativeTimerExtentionForTwig?branch=master)
+[![Build Status](https://travis-ci.org/Little-sumo-labs/time-ago-twig-filter.svg?branch=master)](https://travis-ci.org/Little-sumo-labs/time-ago-twig-filter)
+[![Coverage Status](https://coveralls.io/repos/github/Little-sumo-labs/time-ago-twig-filter/badge.svg?branch=master)](https://coveralls.io/github/Little-sumo-labs/time-ago-twig-filter?branch=master)
 
 Extensions for Twig, giving a date in a more understandable format (e.g. '1 hour ago', 'yesterday', 'tomorrow', 'in 2 weeks')
 
